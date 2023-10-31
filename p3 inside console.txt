@@ -1,0 +1,9 @@
+inside console
+
+todolist.pop();
+
+todolist.push({id:"f"});
+
+console.log(todolist);
+
+console.log(filteredtodolist);
